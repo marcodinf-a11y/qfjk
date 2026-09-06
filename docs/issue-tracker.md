@@ -2,6 +2,8 @@
 
 The canonical tracker is [marcodinf-a11y/qfjk](https://github.com/marcodinf-a11y/qfjk/issues). Use `gh` for issue operations. Historical `.scratch/` files are local migration sources, not live tickets.
 
+The current map is [Chart qfjk's first playable release](https://github.com/marcodinf-a11y/qfjk/issues/1).
+
 ## Wayfinding operations
 
 - Find the map by label `wayfinder:map`. Its body holds Destination, Notes, Decisions so far, Not yet specified, and Out of scope.

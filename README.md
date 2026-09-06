@@ -8,7 +8,7 @@ Character visualization is part of v1. Exploration and web support are later goa
 
 ## Planning
 
-This repository currently contains planning and research, not a runnable application. The public [GitHub decision tracker](https://github.com/marcodinf-a11y/qfjk/issues?q=label%3Awayfinder%3Amap) holds the canonical specification-in-progress. See [tracker conventions](docs/issue-tracker.md) to continue the work and [domain language](CONTEXT.md) for settled terms.
+This repository currently contains planning and research, not a runnable application. [Chart qfjk's first playable release](https://github.com/marcodinf-a11y/qfjk/issues/1) is the canonical specification-in-progress. See [tracker conventions](docs/issue-tracker.md) to continue the work and [domain language](CONTEXT.md) for settled terms.
 
 Research informs decisions; recommendations are not adopted architecture:
 
