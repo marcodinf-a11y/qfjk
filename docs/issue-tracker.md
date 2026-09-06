@@ -13,5 +13,6 @@ The current map is [Chart qfjk's first playable release](https://github.com/marc
 - Claim a frontier ticket before work with `gh issue edit <number> --repo marcodinf-a11y/qfjk --add-assignee @me`.
 - Resolve by posting the answer as a resolution comment, closing the issue, then adding a one-line gist and named link to the map's Decisions so far. Preserve the original question in the issue body. Create newly sharp tickets before wiring their dependencies.
 - Research artifacts live in `docs/research/` and are linked from resolution comments. Human decisions require the user's participation; documentary research is not proof of a completed platform test.
+- Character-sheet PDFs are private local inputs. Keep character, player, and companion names and identifying source filenames out of GitHub issues, comments, and committed artifacts. Use class or role labels in user-confirmed inventory summaries. Root-level PDFs are gitignored.
 
 The map indexes decisions; the resolution comment on each ticket holds its answer. Open work is discovered through sub-issues and dependencies rather than duplicated in the map body.
