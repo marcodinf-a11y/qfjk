@@ -26,7 +26,28 @@ The map information displayed to a player, which may include shared party inform
 What a character can currently perceive given its position, senses, conditions, and surroundings. It informs rules that require perception, including targeting and reaction eligibility.
 
 **Exploration history**:
-The party's record of discovered terrain, retained when it is no longer currently visible. It does not reveal current enemy activity in unseen areas.
+The record of discovered terrain, retained when it is no longer currently visible. It may belong to the party or an individual and does not reveal current enemy activity in unseen areas.
+
+**Token**:
+A creature's representation and occupied footprint on a map. Its artwork is independent of its rules and footprint.
+
+**Token controller**:
+The participant authorized to operate a token. Control does not by itself grant access to the represented creature's senses.
+
+**Sense**:
+A creature's means of perceiving its surroundings, such as ordinary vision or darkvision. Senses are distinct from conditions affecting the creature and environmental effects such as magical darkness.
+
+**Known location**:
+A creature's current location known to an observer without necessarily seeing or identifying that creature. Location knowledge alone does not satisfy a requirement to see a target.
+
+**Last-known position**:
+A remembered location that is no longer established as a creature's current position.
+
+**Action origin**:
+The spatial point from which an action's range or area is determined. It can differ from the acting creature's position.
+
+**Deployment region**:
+A GM-designated area in which players may propose initial token positions for an encounter, subject to the GM's final approval.
 
 **Party inventory**:
 The group's shared possessions and money, distinct from an individual character's inventory. Items and money can move between these inventories.
